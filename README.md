@@ -57,3 +57,10 @@ research_paper_assistant.ipynb   # the whole project
 pyproject.toml                   # dependencies (uv)
 README.md
 ```
+
+## Authors
+
+- Hasan Alhussain
+- Abdullah Alsehli
+
+Capstone project for the Advanced Agentic AI Systems Engineering course at SDAIA Academy.
